@@ -1,10 +1,17 @@
 package Carrera;
 
+import java.util.Scanner;
+
 public class Main {
-
+	public String Coche() {
+		String ry = new String();
+		
+		
+		return ry;
+	}
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		Scanner leer = new Scanner(System.in);
+		
 	}
 
 }
